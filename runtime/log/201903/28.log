@@ -1,0 +1,3293 @@
+---------------------------------------------------------------
+[ 2019-03-28T12:49:19+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/
+[运行时间：0.063477s] [吞吐率：15.75req/s] [内存消耗：2,716.86kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003907s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\phpEnv\www\localhost\zhihui\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:20+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/favicon.ico
+[运行时间：0.032226s] [吞吐率：31.03req/s] [内存消耗：1,774.78kb] [文件加载：49]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:21+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/index/login.html
+[运行时间：0.054688s] [吞吐率：18.29req/s] [内存消耗：2,937.35kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:21+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/index.php?s=/captcha
+[运行时间：0.040039s] [吞吐率：24.98req/s] [内存消耗：1,814.66kb] [文件加载：48]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\phpEnv\www\localhost\zhihui\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:26+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=index&v=1553748561
+[运行时间：0.055664s] [吞吐率：17.96req/s] [内存消耗：2,943.42kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1553748561',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:33+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/index.php?s=/captcha&r=0.805382681046108
+[运行时间：0.037109s] [吞吐率：26.95req/s] [内存消耗：1,814.94kb] [文件加载：48]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'r' => '0.805382681046108',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\phpEnv\www\localhost\zhihui\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:38+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/index/login.html
+[运行时间：0.082031s] [吞吐率：12.19req/s] [内存消耗：3,890.29kb] [文件加载：80]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '86',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  '__token__' => '90ea90876854c42015b4bd8e1dbdfd01',
+  'username' => 'admin',
+  'password' => '123123',
+  'captcha' => 'bmbq',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.005860s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001954s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_admin` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] UPDATE `fa_admin`  SET `logintime`=1553748578,`token`='5c0c6c5f-b5e8-47f3-b42c-10540d86e47f',`updatetime`=1553748578  WHERE  `id` = 1 [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('登录' , '{\"__token__\":\"90ea90876854c42015b4bd8e1dbdfd01\",\"username\":\"admin\",\"captcha\":\"bmbq\"}' , '/admin/index/login.html' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748578) [ RunTime:0.002930s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:49:38+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/index/index
+[运行时间：0.146485s] [吞吐率：6.83req/s] [内存消耗：4,207.91kb] [文件加载：89]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\index\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001954s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001954s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:49:38+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/dashboard?addtabs=1
+[运行时间：0.074219s] [吞吐率：13.47req/s] [内存消耗：4,031.58kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ RUN ] app\admin\controller\Dashboard->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Dashboard.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\dashboard\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'totaluser',
+  6 => 'totalviews',
+  7 => 'totalorder',
+  8 => 'totalorderamount',
+  9 => 'todayuserlogin',
+  10 => 'todayusersignup',
+  11 => 'todayorder',
+  12 => 'unsettleorder',
+  13 => 'sevendnu',
+  14 => 'sevendau',
+  15 => 'paylist',
+  16 => 'createlist',
+  17 => 'addonversion',
+  18 => 'uploadmode',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'dashboard' LIMIT 1 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:49:40+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=index&v=1553748578
+[运行时间：0.063476s] [吞吐率：15.75req/s] [内存消耗：2,944.54kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/index',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1553748578',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002929s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000977s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:40+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=dashboard&v=1553748578
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：2,943.03kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/dashboard?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'dashboard',
+  'v' => '1553748578',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001954s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:54+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1
+[运行时间：0.080078s] [吞吐率：12.49req/s] [内存消耗：3,915.63kb] [文件加载：77]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\goods\shopgoods\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'showList',
+  6 => 'isNewList',
+  7 => 'hotList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'goods/shopgoods' LIMIT 1 [ RunTime:0.001954s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:49:56+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=goods.shopgoods&v=1553748594
+[运行时间：0.068359s] [吞吐率：14.63req/s] [内存消耗：2,941.21kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002929s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'goods.shopgoods',
+  'v' => '1553748594',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:49:56+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoodsclassify?addtabs=1
+[运行时间：0.073242s] [吞吐率：13.65req/s] [内存消耗：3,883.15kb] [文件加载：77]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoodsclassify',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoodsclassify?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoodsclassify.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\goods\shopgoodsclassify\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000977s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'goods/shopgoodsclassify' LIMIT 1 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:49:58+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=goods.shopgoodsclassify&v=1553748596
+[运行时间：0.050781s] [吞吐率：19.69req/s] [内存消耗：2,939.88kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoodsclassify?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'goods.shopgoodsclassify',
+  'v' => '1553748596',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002929s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoodsclassify.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:50:00+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748593389
+[运行时间：0.092773s] [吞吐率：10.78req/s] [内存消耗：4,059.04kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748593389',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004883s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `shop_goods`.`id`,`shop_goods`.`goods_name`,`shop_goods`.`classify_id`,`shop_goods`.`goods_price`,`shop_goods`.`original_price`,`shop_goods`.`attr_type`,`shop_goods`.`goods_num`,`shop_goods`.`goods_sales`,`shop_goods`.`show`,`shop_goods`.`is_new`,`shop_goods`.`hot`,`shop_goods`.`integral`,`shop_goods`.`createtime`,`shop_goods`.`goods_describecontent`,`shop_goods`.`goodsimages`,`shop_goods`.`goodscontent`,`shop_goods`.`is_self`,shopGoodsClassify.id AS shopGoodsClassify__id,shopGoodsClassify.name AS shopGoodsClassify__name,shopGoodsClassify.img AS shopGoodsClassify__img FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:03+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/order/orderlist?addtabs=1
+[运行时间：0.106445s] [吞吐率：9.39req/s] [内存消耗：3,888.17kb] [文件加载：77]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'order.orderlist',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/order/orderlist?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004882s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/order/orderlist.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\order\orderlist\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001954s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'order/orderlist' LIMIT 1 [ RunTime:0.001954s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:04+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748593390
+[运行时间：0.081055s] [吞吐率：12.34req/s] [内存消耗：4,059.04kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748593390',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `shop_goods`.`id`,`shop_goods`.`goods_name`,`shop_goods`.`classify_id`,`shop_goods`.`goods_price`,`shop_goods`.`original_price`,`shop_goods`.`attr_type`,`shop_goods`.`goods_num`,`shop_goods`.`goods_sales`,`shop_goods`.`show`,`shop_goods`.`is_new`,`shop_goods`.`hot`,`shop_goods`.`integral`,`shop_goods`.`createtime`,`shop_goods`.`goods_describecontent`,`shop_goods`.`goodsimages`,`shop_goods`.`goodscontent`,`shop_goods`.`is_self`,shopGoodsClassify.id AS shopGoodsClassify__id,shopGoodsClassify.name AS shopGoodsClassify__name,shopGoodsClassify.img AS shopGoodsClassify__img FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 0,10 [ RunTime:0.001953s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:04+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=order.orderlist&v=1553748603
+[运行时间：0.054687s] [吞吐率：18.29req/s] [内存消耗：2,941.66kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/order/orderlist?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'order.orderlist',
+  'v' => '1553748603',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/order/orderlist.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:50:06+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748593391
+[运行时间：0.093750s] [吞吐率：10.67req/s] [内存消耗：4,059.04kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748593391',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `shop_goods`.`id`,`shop_goods`.`goods_name`,`shop_goods`.`classify_id`,`shop_goods`.`goods_price`,`shop_goods`.`original_price`,`shop_goods`.`attr_type`,`shop_goods`.`goods_num`,`shop_goods`.`goods_sales`,`shop_goods`.`show`,`shop_goods`.`is_new`,`shop_goods`.`hot`,`shop_goods`.`integral`,`shop_goods`.`createtime`,`shop_goods`.`goods_describecontent`,`shop_goods`.`goodsimages`,`shop_goods`.`goodscontent`,`shop_goods`.`is_self`,shopGoodsClassify.id AS shopGoodsClassify__id,shopGoodsClassify.name AS shopGoodsClassify__name,shopGoodsClassify.img AS shopGoodsClassify__img FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 0,10 [ RunTime:0.001953s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:08+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoodsclassify/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748596101
+[运行时间：0.081055s] [吞吐率：12.34req/s] [内存消耗：3,922.19kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003906s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoodsclassify',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoodsclassify?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748596101',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoodsclassify.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods_classify` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_goods_classify` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:08+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1
+[运行时间：0.076172s] [吞吐率：13.13req/s] [内存消耗：3,946.41kb] [文件加载：77]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'dialog' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->add[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\goods\shopgoods\add.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'showList',
+  6 => 'isNewList',
+  7 => 'hotList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000977s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001954s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:13+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=goods.shopgoods&v=1553748608
+[运行时间：0.050782s] [吞吐率：19.69req/s] [内存消耗：2,941.26kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'goods.shopgoods',
+  'v' => '1553748608',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:50:17+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/order/orderlist/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748602392
+[运行时间：0.079102s] [吞吐率：12.64req/s] [内存消耗：3,945.93kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002929s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'order.orderlist',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/order/orderlist?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748602392',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/order/orderlist.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003906s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_order_info` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_order_info` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_order_info` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:28+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.083984s] [吞吐率：11.91req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.007813s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748628) [ RunTime:0.003907s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:33+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.083984s] [吞吐率：11.91req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006836s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748633) [ RunTime:0.002929s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:36+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.091797s] [吞吐率：10.89req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.007813s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000976s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748636) [ RunTime:0.003906s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:42+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.095703s] [吞吐率：10.45req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.007813s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748642) [ RunTime:0.003907s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:45+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.084961s] [吞吐率：11.77req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.007812s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000976s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748645) [ RunTime:0.003906s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:50+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.105469s] [吞吐率：9.48req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004883s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.008789s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748650) [ RunTime:0.004883s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:52+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.083008s] [吞吐率：12.05req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.007812s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.001954s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748652) [ RunTime:0.004882s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:55+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/goods/shopattr/index
+[运行时间：0.101562s] [吞吐率：9.85req/s] [内存消耗：3,897.74kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '191',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'attr_name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'attr_name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'attr_name',
+  ),
+  'attr_name' => '',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003906s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.008789s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` WHERE  (  `attr_name` LIKE '%%' ) ORDER BY `attr_name` ASC LIMIT 0,10 [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_log` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"q_word\":[\"\"],\"pageNumber\":\"1\",\"pageSize\":\"10\",\"andOr\":\"AND\",\"orderBy\":[[\"attr_name\",\"ASC\"]],\"searchTable\":\"tbl\",\"showField\":\"attr_name\",\"keyField\":\"id\",\"searchField\":[\"attr_name\"],\"attr_name\":\"\"}' , '/admin/goods/shopattr/index' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748655) [ RunTime:0.003906s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:56+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopattr?addtabs=1
+[运行时间：0.075195s] [吞吐率：13.30req/s] [内存消耗：3,893.95kb] [文件加载：77]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopattr?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002929s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\goods\shopattr\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'goods/shopattr' LIMIT 1 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:50:58+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=goods.shopattr&v=1553748656
+[运行时间：0.053711s] [吞吐率：18.62req/s] [内存消耗：2,939.87kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopattr?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'goods.shopattr',
+  'v' => '1553748656',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:50:59+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/order/orderlist/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748602393
+[运行时间：0.077148s] [吞吐率：12.96req/s] [内存消耗：3,945.93kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000976s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'order.orderlist',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/order/orderlist?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748602393',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/order/orderlist.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000976s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_order_info` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_order_info` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_order_info` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:03+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopattr/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748656082
+[运行时间：0.078125s] [吞吐率：12.80req/s] [内存消耗：3,932.74kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopattr?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748656082',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002930s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:07+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoodsclassify/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748596102
+[运行时间：0.075196s] [吞吐率：13.30req/s] [内存消耗：3,922.19kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoodsclassify',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoodsclassify?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748596102',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoodsclassify.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000977s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods_classify` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_goods_classify` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:08+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/order/orderlist/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748602394
+[运行时间：0.083985s] [吞吐率：11.91req/s] [内存消耗：3,945.93kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'order.orderlist',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/order/orderlist?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748602394',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/order/orderlist.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_order_info` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_order_info` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_order_info` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:09+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748593392
+[运行时间：0.081054s] [吞吐率：12.34req/s] [内存消耗：4,059.04kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748593392',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `shop_goods`.`id`,`shop_goods`.`goods_name`,`shop_goods`.`classify_id`,`shop_goods`.`goods_price`,`shop_goods`.`original_price`,`shop_goods`.`attr_type`,`shop_goods`.`goods_num`,`shop_goods`.`goods_sales`,`shop_goods`.`show`,`shop_goods`.`is_new`,`shop_goods`.`hot`,`shop_goods`.`integral`,`shop_goods`.`createtime`,`shop_goods`.`goods_describecontent`,`shop_goods`.`goodsimages`,`shop_goods`.`goodscontent`,`shop_goods`.`is_self`,shopGoodsClassify.id AS shopGoodsClassify__id,shopGoodsClassify.name AS shopGoodsClassify__name,shopGoodsClassify.img AS shopGoodsClassify__img FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:15+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/advertising/adminad?addtabs=1
+[运行时间：0.075195s] [吞吐率：13.30req/s] [内存消耗：3,898.51kb] [文件加载：77]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005860s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'advertising.adminad',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adminad?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adminad.php
+[ info ] [ RUN ] app\admin\controller\advertising\Adminad->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\advertising\Adminad.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\advertising\adminad\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'statusList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'advertising/adminad' LIMIT 1 [ RunTime:0.001953s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:16+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=advertising.adminad&v=1553748675
+[运行时间：0.061523s] [吞吐率：16.25req/s] [内存消耗：2,940.86kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adminad?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'advertising.adminad',
+  'v' => '1553748675',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adminad.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:51:18+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/advertising/adposition?addtabs=1
+[运行时间：0.085937s] [吞吐率：11.64req/s] [内存消耗：4,033.57kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'advertising.adposition',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adposition?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002929s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adposition.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\advertising\adposition\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'advertising/adposition' LIMIT 1 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:20+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/advertising/adminad/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748674444
+[运行时间：0.084961s] [吞吐率：11.77req/s] [内存消耗：4,031.78kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'advertising.adminad',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adminad?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748674444',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001954s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adminad.php
+[ info ] [ RUN ] app\admin\controller\advertising\Adminad->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\advertising\Adminad.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_admin_ad` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_ad_position` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_admin_ad` `admin_ad` LEFT JOIN `fa_ad_position` `adPosition` ON `admin_ad`.`category_id`=`adPosition`.`id` ORDER BY `admin_ad`.`id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `admin_ad`.`id`,`admin_ad`.`adimage`,`admin_ad`.`ad_name`,`admin_ad`.`ad_link`,`admin_ad`.`starttime`,`admin_ad`.`endtime`,`admin_ad`.`man`,`admin_ad`.`shop_id`,`admin_ad`.`mobile`,`admin_ad`.`num`,`admin_ad`.`status`,`admin_ad`.`category_id`,adPosition.id AS adPosition__id,adPosition.position_name AS adPosition__position_name,adPosition.position_desc AS adPosition__position_desc FROM `fa_admin_ad` `admin_ad` LEFT JOIN `fa_ad_position` `adPosition` ON `admin_ad`.`category_id`=`adPosition`.`id` ORDER BY `admin_ad`.`id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:21+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=advertising.adposition&v=1553748678
+[运行时间：0.069336s] [吞吐率：14.42req/s] [内存消耗：2,939.96kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001954s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adposition?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'advertising.adposition',
+  'v' => '1553748678',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003907s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adposition.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:51:21+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/command?addtabs=1
+[运行时间：0.082031s] [吞吐率：12.19req/s] [内存消耗：3,981.84kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'command',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003906s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\command\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'statusList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001954s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `title`,`remark` FROM `fa_auth_rule` WHERE  `name` = 'command' LIMIT 1 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:26+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=command&v=1553748681
+[运行时间：0.054688s] [吞吐率：18.29req/s] [内存消耗：2,940.08kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command?addtabs=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'command',
+  'v' => '1553748681',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:51:29+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/advertising/adposition/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748677582
+[运行时间：0.077149s] [吞吐率：12.96req/s] [内存消耗：3,922.02kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'advertising.adposition',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adposition?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748677582',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adposition.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003906s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_ad_position` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_ad_position` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_ad_position` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:36+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/command/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748682856
+[运行时间：0.085937s] [吞吐率：11.64req/s] [内存消耗：4,035.63kb] [文件加载：80]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'command',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748682856',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000976s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_command` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_command` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_command` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:48+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/command/add?dialog=1
+[运行时间：0.085938s] [吞吐率：11.64req/s] [内存消耗：4,031.61kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000977s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'command',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command?addtabs=1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'dialog' => '1',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ RUN ] app\admin\controller\Command->add[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Command.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\command\add.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'statusList',
+  6 => 'tableList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW TABLES [ RunTime:0.004883s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:51:50+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=command&v=1553748708
+[运行时间：0.049805s] [吞吐率：20.08req/s] [内存消耗：2,940.08kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000977s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command/add?dialog=1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'command',
+  'v' => '1553748708',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-28T12:51:54+08:00 ] 183.185.215.218 POST zh.yueqiang.xyz/admin/command/get_field_list
+[运行时间：0.079101s] [吞吐率：12.64req/s] [内存消耗：3,825.13kb] [文件加载：78]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'command',
+    2 => 'get_field_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command/add?dialog=1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://zh.yueqiang.xyz',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '20',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'table' => 'fa_account_log',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Command->get_field_list[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Command.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006836s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003906s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `information_schema`.`columns` WHERE TABLE_SCHEMA = 'zhihui' AND table_name = 'fa_account_log' ORDER BY ORDINAL_POSITION [ RunTime:0.002930s ]
+[ sql ] [ SQL ] 'fa_account_log'zhihui'HOW COLUMNS FROM `fa_admin_log` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] INSERT INTO `fa_admin_log` (`title` , `content` , `url` , `admin_id` , `username` , `useragent` , `ip` , `createtime`) VALUES ('' , '{\"table\":\"fa_account_log\"}' , '/admin/command/get_field_list' , 1 , 'admin' , 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36' , '183.185.215.218' , 1553748714) [ RunTime:0.003907s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:52:04+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/advertising/adposition/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748677583
+[运行时间：0.107422s] [吞吐率：9.31req/s] [内存消耗：3,922.02kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'advertising.adposition',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/advertising/adposition?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748677583',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/advertising/adposition.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_ad_position` [ RunTime:0.002929s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_ad_position` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_ad_position` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:52:05+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/command/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748682857
+[运行时间：0.087891s] [吞吐率：11.38req/s] [内存消耗：4,035.63kb] [文件加载：80]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'command',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/command?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748682857',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/command.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_command` [ RunTime:0.002930s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_command` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_command` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.001953s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:52:08+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748593393
+[运行时间：0.081055s] [吞吐率：12.34req/s] [内存消耗：4,059.04kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748593393',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `shop_goods`.`id`,`shop_goods`.`goods_name`,`shop_goods`.`classify_id`,`shop_goods`.`goods_price`,`shop_goods`.`original_price`,`shop_goods`.`attr_type`,`shop_goods`.`goods_num`,`shop_goods`.`goods_sales`,`shop_goods`.`show`,`shop_goods`.`is_new`,`shop_goods`.`hot`,`shop_goods`.`integral`,`shop_goods`.`createtime`,`shop_goods`.`goods_describecontent`,`shop_goods`.`goodsimages`,`shop_goods`.`goodscontent`,`shop_goods`.`is_self`,shopGoodsClassify.id AS shopGoodsClassify__id,shopGoodsClassify.name AS shopGoodsClassify__name,shopGoodsClassify.img AS shopGoodsClassify__img FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:52:08+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoodsclassify/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748596103
+[运行时间：0.083985s] [吞吐率：11.91req/s] [内存消耗：3,922.19kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoodsclassify',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoodsclassify?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748596103',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoodsclassify.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ C:\phpEnv\www\localhost\zhihui\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.010742s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods_classify` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_goods_classify` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.001953s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:52:09+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopattr/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748656083
+[运行时间：0.073242s] [吞吐率：13.65req/s] [内存消耗：3,932.74kb] [文件加载：79]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopattr',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopattr?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748656083',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopattr.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopattr->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopattr.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_attr` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_attr` ORDER BY `id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_shop_attr` ORDER BY `id` DESC LIMIT 0,10 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2019-03-28T12:52:10+08:00 ] 183.185.215.218 GET zh.yueqiang.xyz/admin/goods/shopgoods/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1553748593394
+[运行时间：0.081055s] [吞吐率：12.34req/s] [内存消耗：4,059.04kb] [文件加载：83]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553748558; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1553748558; PHPSESSID=6b9kffg0f87jqfoagbi6k7k5oo',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?addtabs=1',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1553748593394',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002929s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/goods/shopgoods.php
+[ info ] [ RUN ] app\admin\controller\goods\Shopgoods->index[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\goods\Shopgoods.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=zhihui;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_group_access` [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `aga`.`uid`,`aga`.`group_id`,`ag`.`id`,`ag`.`pid`,`ag`.`name`,`ag`.`rules` FROM `fa_auth_group_access` `aga` LEFT JOIN `fa_auth_group` `ag` ON `aga`.`group_id`=`ag`.`id` WHERE  (  aga.uid='1' and ag.status='normal' ) [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_auth_rule` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`condition`,`icon`,`name`,`title`,`ismenu` FROM `fa_auth_rule` WHERE  `status` = 'normal' [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods` [ RunTime:0.001953s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_shop_goods_classify` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SELECT `shop_goods`.`id`,`shop_goods`.`goods_name`,`shop_goods`.`classify_id`,`shop_goods`.`goods_price`,`shop_goods`.`original_price`,`shop_goods`.`attr_type`,`shop_goods`.`goods_num`,`shop_goods`.`goods_sales`,`shop_goods`.`show`,`shop_goods`.`is_new`,`shop_goods`.`hot`,`shop_goods`.`integral`,`shop_goods`.`createtime`,`shop_goods`.`goods_describecontent`,`shop_goods`.`goodsimages`,`shop_goods`.`goodscontent`,`shop_goods`.`is_self`,shopGoodsClassify.id AS shopGoodsClassify__id,shopGoodsClassify.name AS shopGoodsClassify__name,shopGoodsClassify.img AS shopGoodsClassify__img FROM `fa_shop_goods` `shop_goods` LEFT JOIN `fa_shop_goods_classify` `shopGoodsClassify` ON `shop_goods`.`classify_id`=`shopGoodsClassify`.`id` ORDER BY `shop_goods`.`id` DESC LIMIT 0,10 [ RunTime:0.000976s ]
+---------------------------------------------------------------
+[ 2019-03-28T21:02:32+08:00 ] 47.111.75.134 GET zh.yueqiang.xyz/
+[运行时间：0.051758s] [吞吐率：19.32req/s] [内存消耗：2,714.47kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\phpEnv\www\localhost\zhihui\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File

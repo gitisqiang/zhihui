@@ -1,0 +1,220 @@
+---------------------------------------------------------------
+[ 2019-03-31T00:29:51+08:00 ] 115.239.212.71 GET zh.yueqiang.xyz/
+[运行时间：0.116211s] [吞吐率：8.61req/s] [内存消耗：2,713.70kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004883s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.9.1',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'close',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005860s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\phpEnv\www\localhost\zhihui\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-31T17:06:31+08:00 ] 183.200.20.215 GET zh.yueqiang.xyz/admin/goods/shopgoods?ref=addtabs
+[运行时间：0.065430s] [吞吐率：15.28req/s] [内存消耗：2,588.47kb] [文件加载：67]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'goods.shopgoods',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://zh.yueqiang.xyz/admin/dashboard?ref=addtabs',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/73.0.3683.68 Mobile/15E148 Safari/605.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553952534',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'addtabs',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002930s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/common\view\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-31T17:06:34+08:00 ] 183.200.20.215 GET zh.yueqiang.xyz/admin/index/login?url=%2Fadmin%2Fgoods%2Fshopgoods%3Fref%3Daddtabs
+[运行时间：0.062500s] [吞吐率：16.00req/s] [内存消耗：2,938.67kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://zh.yueqiang.xyz/admin/goods/shopgoods?ref=addtabs',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/73.0.3683.68 Mobile/15E148 Safari/605.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=q06bul50t69eao56g4tlrp12ov; Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553952534',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/admin/goods/shopgoods?ref=addtabs',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002929s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000976s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-31T17:06:34+08:00 ] 183.200.20.215 GET zh.yueqiang.xyz/index.php?s=/captcha
+[运行时间：0.040039s] [吞吐率：24.98req/s] [内存消耗：1,814.77kb] [文件加载：48]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login?url=%2Fadmin%2Fgoods%2Fshopgoods%3Fref%3Daddtabs',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/73.0.3683.68 Mobile/15E148 Safari/605.1',
+  'cookie' => 'PHPSESSID=q06bul50t69eao56g4tlrp12ov; Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553952534',
+  'connection' => 'close',
+  'accept' => 'image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ C:\phpEnv\www\localhost\zhihui\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-31T17:06:36+08:00 ] 183.200.20.215 GET zh.yueqiang.xyz/admin/ajax/lang?callback=define&controllername=index&v=1554023194
+[运行时间：0.054688s] [吞吐率：18.29req/s] [内存消耗：2,943.45kb] [文件加载：70]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000000s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://zh.yueqiang.xyz/admin/index/login?url=%2Fadmin%2Fgoods%2Fshopgoods%3Fref%3Daddtabs',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/73.0.3683.68 Mobile/15E148 Safari/605.1',
+  'cookie' => 'PHPSESSID=q06bul50t69eao56g4tlrp12ov; Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1553952534',
+  'connection' => 'close',
+  'accept' => '*/*',
+  'host' => 'zh.yueqiang.xyz',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1554023194',
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001953s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ C:\phpEnv\www\localhost\zhihui\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] C:\phpEnv\www\localhost\zhihui\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000000s ]
+[ info ] [ LOG ] INIT File
