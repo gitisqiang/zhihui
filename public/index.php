@@ -20,5 +20,5 @@ if (!is_file(APP_PATH . 'admin/command/Install/install.lock'))
     exit;
 }
 
-// 加载框架引导文件
+// 加载框架引导文件1
 require __DIR__ . '/../thinkphp/start.php';
